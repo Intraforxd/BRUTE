@@ -25,4 +25,4 @@ python run.py
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6285874085305?text=Asalamualaikum+bang)
 
 
-![image.png]( {https://github.com/Intraforxd/BRUTE/blob/ed1cd8e90d9ed3a147e706e84b0b59680e2ae74e/IMG_20221001_003348.jpg} )
+![image.png]( {https://github.com/Intraforxd/BRUTE/blob/IMG_20221001_003348.jpg} )
