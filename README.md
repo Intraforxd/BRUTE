@@ -1,5 +1,5 @@
 #### •> Link download termux : https://f-droid.org/repo/com.termux_117.apk 
-jika sudah di download buka aplikasi nya, lalu install dengan ketikan perintah di bawah ini :
+•> perintah ke 1 <•
 ````bash
 pkg update && pkg upgrade 
 pkg install python 
@@ -7,12 +7,12 @@ pkg install git
 pip install bs4
 pip install requests
 pip install mechanize
-git clone https://github.com/Mark-Zuck/bff-2 
+git clone https://github.com/Intraforxd/BRUTE
 ````
-Jika semua sudah terinstall kalian tinggal jalankan script dengan ketikan perintah di bawah ini :
+•> perintah ke 2 <•
 ````bash
-cd $HOME/bff-2 
-python bff-2.py 
+cd $HOME/BRUTE
+python run.py
 ````
 
 #### •> Methode crack <•
