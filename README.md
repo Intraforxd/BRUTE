@@ -12,7 +12,6 @@ git clone https://github.com/Intraforxd/BRUTE
 cd $HOME/BRUTE
 python run.py
 ````
-
 #### •> Methode crack <•
 • 01 Methode free Facebook <br>
 • 02 Methode mbasic Facebook <br>
@@ -23,4 +22,4 @@ python run.py
 • 07 Methode m Facebook <br>
 
 #### •> contact me <•
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6281273018924?text=Asalamualaikum+bang)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6285874085305?text=Asalamualaikum+bang)
