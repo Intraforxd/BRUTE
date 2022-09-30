@@ -24,6 +24,6 @@ python run.py
 #### •> contact me <•
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6285874085305?text=Asalamualaikum+bang)
 
-# •> result <•
+### •> result <•
 ![IMG_20221001_003348.jpg](https://github.com/Intraforxd/BRUTE/blob/137a7411857eddc73e459d7ece1981732604a3fc/IMG_20221001_003348.jpg)
-# •> jangan pernah mencoba dan jangan coba-coba <•
+### •> jangan pernah mencoba dan jangan coba-coba <•
