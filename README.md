@@ -24,4 +24,4 @@ python run.py
 #### •> contact me <•
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6285874085305?text=Asalamualaikum+bang)
 
-![ScreenShot](https://github.com/i-saumitra/Voice-controlled-MP3-Player/blob/master/screenshot.jpg)
+![IMG_20221001_003348.jpg](https://github.com/Intraforxd/BRUTE/blob/137a7411857eddc73e459d7ece1981732604a3fc/IMG_20221001_003348.jpg)
